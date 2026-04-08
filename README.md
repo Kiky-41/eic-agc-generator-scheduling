@@ -1,4 +1,5 @@
 # ⚡ Equal Incremental Cost Method with Adjustable Gamma Control (EIC-AGC) — Initial Release
+[![DOI](https://zenodo.org/badge/1204746735.svg)](https://doi.org/10.5281/zenodo.19468859)
 
 This release provides the implementation of the **Equal Incremental Cost Method with Adjustable Gamma Control (EIC-AGC)** for generator scheduling in power systems.
 
